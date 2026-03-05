@@ -22,6 +22,7 @@ I'm a **Software Engineering Student** passionate about building seamless cross-
 ### 📊 GitHub Stats
 
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedAnis12&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAnis12&layout=compact&theme=radical)
 
 ---
