@@ -27,15 +27,18 @@ I'm a **Software Engineering Student** passionate about building seamless cross-
 
 ### 📊 Activity & Skills
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAnis12&theme=radical&hide_border=true" alt="Mohamed's Streak" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MohamedAnis12&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
-![Mohamed's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedAnis12&theme=react-dark&hide_border=true)
+<p align="center">
+  ![Mohamed's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedAnis12&theme=react-dark&hide_border=true)
+</p>  
 ---
+
 
 ### 📫 Connect with me:
 
