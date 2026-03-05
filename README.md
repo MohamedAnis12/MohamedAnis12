@@ -11,8 +11,14 @@ I'm a **Software Engineering Student** passionate about building seamless cross-
 
 ### 🛠️ Tech Stack & Tools
 
-- **Mobile:** Flutter, Dart
-- **Languages:** C++, Dart
+**Languages & Frameworks:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
 - **State Management:** BLoC, Riverpod
 - **Architecture:** Clean Architecture, MVVM
 - **Version Control:** Git & GitHub
@@ -20,12 +26,22 @@ I'm a **Software Engineering Student** passionate about building seamless cross-
 ---
 
 ### 📊 GitHub Stats
-![Mohamed's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MohamedAnis12&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MohamedAnis12&layout=compact&theme=radical)
+<p align="left">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohamedAnis12&show_icons=true&theme=radical" alt="Mohamed's GitHub stats" />
+<br/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MohamedAnis12&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 
-### 📫 How to reach me:
-- **LinkedIn:**(www.linkedin.com/in/mohamed-anis-4667bb316) 
-- **Email:** vidotyobegaming@gmail.com
+### 📫 Connect with me:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/mohamed-anis-4667bb316" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:vidotyobegaming@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+</p>
