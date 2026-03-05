@@ -35,8 +35,8 @@ I'm a **Software Engineering Student** passionate about building seamless cross-
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MohamedAnis12&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 <p align="center">
-  ![Mohamed's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedAnis12&theme=react-dark&hide_border=true)
-</p>  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAnis12&theme=react-dark&hide_border=true" width="100%" />
+</p>
 ---
 
 
