@@ -37,6 +37,8 @@ I'm a **Software Engineering Student** passionate about building seamless cross-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAnis12&theme=react-dark&hide_border=true" width="100%" />
 </p>
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-MohamedAnis122-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/MohamedAnis122)
 ---
 
 
